@@ -4,7 +4,7 @@ function App() {
 
   return (
     <main className="text-[.8125rem] h-screen grid place-content-center bg-Grayish-Blue">
-      <Card />
+        <Card />
     </main >
   )
 }
